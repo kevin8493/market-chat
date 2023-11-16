@@ -1,0 +1,13 @@
+.circle {
+  width: 4px;
+  height: 4px;
+  background-color: #de8b52;
+  position: absolute;
+  border-radius: 80%;
+  bottom: 30px;
+  right: 33px;
+}
+
+.footer-block__send-airplane {
+  position: relative;
+}
