@@ -22,6 +22,7 @@ footer {
 
 .footer-block__plus img {
   width: 20px;
+  cursor: pointer;
 }
 
 .footer-block__message {
@@ -43,10 +44,12 @@ footer {
 
 .footer-block__messageimg img {
   width: 20px;
+  cursor: pointer;
 }
 
 .footer-block__send img {
   width: 20px;
+  cursor: pointer;
 }
 
 .footer-block__send {

@@ -12,6 +12,7 @@ nav {
 
 .info-bar__icons img {
   width: 20px;
+  cursor: pointer;
 }
 
 .info-bar__list-answer {
@@ -30,6 +31,7 @@ nav {
 
 .info-bar__icons2 img {
   width: 20px;
+  cursor: pointer;
 }
 
 .second-bar__icons img {
